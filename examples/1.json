@@ -1,0 +1,9 @@
+{
+  "source_scenario": "NV_Sample_1",
+  "start_time": 9.8,
+  "duration": 5,
+  "collision_actor_ids": [
+    1353,
+    1355
+  ]
+}
